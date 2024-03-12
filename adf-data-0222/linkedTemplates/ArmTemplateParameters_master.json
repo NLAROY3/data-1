@@ -5,6 +5,15 @@
 		"factoryName": {
 			"value": "adf-data-0222"
 		},
+		"AzureDataLakeStorage2_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://djkhgkdygsjgyu.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage2_properties_typeProperties_url": {
+			"value": "https://djkhgkdygsjgyu.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
